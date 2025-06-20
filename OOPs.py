@@ -80,4 +80,6 @@ animals = [Dog(), Cat(), Animal()]
 for animal in animals:
     animal.speak()
 
+    print("THis the end of this program.")
+
 
